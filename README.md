@@ -1,2 +1,2 @@
 # machineLearning
-Repositorio del curso de machine learnig Emtech
+Repositorio del curso de machine learning Emtech
